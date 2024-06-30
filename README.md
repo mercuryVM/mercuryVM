@@ -1,8 +1,6 @@
 ### Gabriel Luís da Silva says: 👋
 
-Estudante de programação cursando na Escola Técnica de São Paulo.
-
-[![Mercury's GitHub stats](https://github-readme-stats.vercel.app/api?username=mercuryVM)](https://github.com/anuraghazra/github-readme-stats)
+Aluno de Sistemas de Informação na EACH-USP (Escola de Artes, Ciências e Humanidades da Universidade de São Paulo)
 
 ### Conhecimentos
 
