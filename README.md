@@ -2,7 +2,7 @@
 
 Aluno de Sistemas de Informação na EACH-USP (Escola de Artes, Ciências e Humanidades da Universidade de São Paulo)
 
-### Conhecimentos
+### Experiência com...
 
 ## Cloud
 
